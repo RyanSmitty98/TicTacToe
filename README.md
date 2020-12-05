@@ -14,14 +14,25 @@ The time control mechanic allows the player to go back in time just by pressing 
 
 ## Dependencies
 @testing-library/jest-dom : 5.11.5,
+
 @testing-library/react : 11.1.0,
+
 @testing-library/user-event : 12.1.10,
+
 jest : 26.6.0,
+
 react : 17.0.1,
+
 react-dom : 17.0.1,
+
 react-scripts :4.0.0,
+
 web-vitals : 0.2.4,
+
 babel-jest : 26.6.1,
+
 babel-preset-gatsby : 0.5.14,
+
 identity-obj-proxy : 3.0.0,
+
 react-test-renderer : 17.0.1 
